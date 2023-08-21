@@ -23,6 +23,23 @@ Run the bot:
 
 Now, in Discord, you can prompt the bot with:
 
-```!journal```
+```/journal```
 
 Now you and your team will have a shared journal!
+
+# Commands
+
+```/journal```
+Creates a journal for your team to share
+
+```/ghosts```
+Lists all the ghosts in the game
+
+```/<ghost>```
+Gives info about a specific ghosts
+
+```/cursed-possessions```
+Lists all the cursed possessions in the game
+
+```/<cursed-possession>```
+Gives info about a specific cursed possession
